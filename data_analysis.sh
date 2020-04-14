@@ -3,8 +3,7 @@
 #This will contain my new analytical method!
 #This is my second attempt
 
-#Function 1
+#python script goes here
 
-#Function 2
 
-#Function 3
+Rscript myrscript.R
